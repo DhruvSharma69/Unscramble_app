@@ -5,7 +5,7 @@ Single player game app that displays scrambled words. To play the game, player h
 word using all the letters in the displayed scrambled word.
 This code demonstrates the Android Architecture component- ViewModel and StateFlow.
 
-
+![screenshot of game ending](https://github.com/DhruvSharma69/Unscramble_app/blob/starter/Screenshots/ss1.jpg)
 Pre-requisites
 --------------
 * Experience with Kotlin syntax.
